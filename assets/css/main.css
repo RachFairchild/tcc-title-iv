@@ -1821,6 +1821,18 @@ input, select, textarea {
 			padding: 0;
 		}
 
+
+/* Video */
+
+	#video-player {
+		display: flex;
+		flex-flow: row nowrap;
+		width: 100%;
+		padding-bottom: 40px;
+		justify-content: center;
+	}
+
+
 /* Button */
 
 	input[type="submit"],
